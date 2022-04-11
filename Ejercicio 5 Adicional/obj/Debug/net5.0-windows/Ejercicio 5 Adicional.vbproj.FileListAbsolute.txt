@@ -1,0 +1,18 @@
+C:\Users\idoni\OneDrive\Escritorio\ADICIONALES_VB\Ejercicio 5 Adicional\bin\Debug\net5.0-windows\Ejercicio 5 Adicional.exe
+C:\Users\idoni\OneDrive\Escritorio\ADICIONALES_VB\Ejercicio 5 Adicional\bin\Debug\net5.0-windows\Ejercicio 5 Adicional.deps.json
+C:\Users\idoni\OneDrive\Escritorio\ADICIONALES_VB\Ejercicio 5 Adicional\bin\Debug\net5.0-windows\Ejercicio 5 Adicional.runtimeconfig.json
+C:\Users\idoni\OneDrive\Escritorio\ADICIONALES_VB\Ejercicio 5 Adicional\bin\Debug\net5.0-windows\Ejercicio 5 Adicional.runtimeconfig.dev.json
+C:\Users\idoni\OneDrive\Escritorio\ADICIONALES_VB\Ejercicio 5 Adicional\bin\Debug\net5.0-windows\Ejercicio 5 Adicional.dll
+C:\Users\idoni\OneDrive\Escritorio\ADICIONALES_VB\Ejercicio 5 Adicional\bin\Debug\net5.0-windows\ref\Ejercicio 5 Adicional.dll
+C:\Users\idoni\OneDrive\Escritorio\ADICIONALES_VB\Ejercicio 5 Adicional\bin\Debug\net5.0-windows\Ejercicio 5 Adicional.pdb
+C:\Users\idoni\OneDrive\Escritorio\ADICIONALES_VB\Ejercicio 5 Adicional\obj\Debug\net5.0-windows\Ejercicio 5 Adicional.vbproj.AssemblyReference.cache
+C:\Users\idoni\OneDrive\Escritorio\ADICIONALES_VB\Ejercicio 5 Adicional\obj\Debug\net5.0-windows\Ejercicio_5_Adicional.Form1.resources
+C:\Users\idoni\OneDrive\Escritorio\ADICIONALES_VB\Ejercicio 5 Adicional\obj\Debug\net5.0-windows\Ejercicio 5 Adicional.vbproj.GenerateResource.cache
+C:\Users\idoni\OneDrive\Escritorio\ADICIONALES_VB\Ejercicio 5 Adicional\obj\Debug\net5.0-windows\Ejercicio 5 Adicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idoni\OneDrive\Escritorio\ADICIONALES_VB\Ejercicio 5 Adicional\obj\Debug\net5.0-windows\Ejercicio 5 Adicional.AssemblyInfoInputs.cache
+C:\Users\idoni\OneDrive\Escritorio\ADICIONALES_VB\Ejercicio 5 Adicional\obj\Debug\net5.0-windows\Ejercicio 5 Adicional.AssemblyInfo.vb
+C:\Users\idoni\OneDrive\Escritorio\ADICIONALES_VB\Ejercicio 5 Adicional\obj\Debug\net5.0-windows\Ejercicio 5 Adicional.vbproj.CoreCompileInputs.cache
+C:\Users\idoni\OneDrive\Escritorio\ADICIONALES_VB\Ejercicio 5 Adicional\obj\Debug\net5.0-windows\Ejercicio 5 Adicional.dll
+C:\Users\idoni\OneDrive\Escritorio\ADICIONALES_VB\Ejercicio 5 Adicional\obj\Debug\net5.0-windows\ref\Ejercicio 5 Adicional.dll
+C:\Users\idoni\OneDrive\Escritorio\ADICIONALES_VB\Ejercicio 5 Adicional\obj\Debug\net5.0-windows\Ejercicio 5 Adicional.pdb
+C:\Users\idoni\OneDrive\Escritorio\ADICIONALES_VB\Ejercicio 5 Adicional\obj\Debug\net5.0-windows\Ejercicio 5 Adicional.genruntimeconfig.cache
